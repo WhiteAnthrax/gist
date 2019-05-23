@@ -1,0 +1,12 @@
+[submodule "jjinolist-filter"]
+	path = jjinolist-filter
+	url = https://gist.github.com/WhiteAnthrax/8e067f004dd2a6a735bb1f4375b41ffc
+[submodule "remove-sepia-from-jimaenohundoshi"]
+	path = remove-sepia-from-jimaenohundoshi
+	url = https://gist.github.com/WhiteAnthrax/9f30118ea27d26b29842658ea3ef359c
+[submodule "arch-swatch-PKGBUILD"]
+	path = arch-swatch-PKGBUILD
+	url = https://gist.github.com/WhiteAnthrax/6553887
+[submodule "unionize-readme"]
+	path = unionize-readme
+	url = https://gist.github.com/WhiteAnthrax/6139396
